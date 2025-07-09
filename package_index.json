@@ -21,9 +21,9 @@
       "tools": [],
       "libraries": [
         {
-          "name": "DFRobot_BMM350",
+          "name": "UNIT_BMM350",
           "version": "1.0.0",
-          "archiveFileName": "DFRobot_BMM350.zip",
+          "archiveFileName": "UNIT_BMM350.zip",
           "url": "https://github.com/Cesarbautista10/we_modules_arduino/releases/download/1.0.0/UNIT_BMM350.zip",
           "checksum": "SHA-256:90e0866ff80bfd98ed22d7f083cf9c5b15027e053f2cfc9fbfa393ba6592997c",
           "size": "712519"
