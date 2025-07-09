@@ -12,8 +12,8 @@
           "category": "contributed",
           "url": "https://github.com/Cesarbautista10/we_modules_arduino/releases/download/1.0.0/dummy-platform.zip",
           "archiveFileName": "dummy-platform.zip",
-          "checksum": "SHA-256:2a989301884fbcc7cb7ba860e89af9e7b0505fcb1d7a0728d12fe0155717b232",
-          "size": "174",
+          "checksum": "SHA-256:f31c5e1574fc399f959f225c84f20fb0ef222de73b21e9561c4af0bdf4538075",
+          "size": "523",
           "boards": [],
           "toolsDependencies": []
         }
