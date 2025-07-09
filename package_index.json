@@ -1,0 +1,21 @@
+{
+  "packages": [
+    {
+      "name": "we_modules_arduino",
+      "maintainer": "Cesar Bautista",
+      "websiteURL": "https://github.com/tuusuario/we_modules_arduino",
+      "platforms": [],
+      "tools": [],
+      "libraries": [
+        {
+          "name": "DFRobot_BMM350",
+          "version": "1.0.0",
+          "archiveFileName": "DFRobot_BMM350.zip",
+          "url": "https://tusitio.com/libs/DFRobot_BMM350.zip",
+          "checksum": "SHA-256:8e5dff66f38557aa9ed8d8d32d651fd2d918316751c3280bb8126959c8f85d32",
+          "size": "..."
+        }
+      ]
+    }
+  ]
+}
